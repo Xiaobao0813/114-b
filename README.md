@@ -8,4 +8,4 @@
 ### 個人網頁
 
 # 😄 🐶
-![NKUST](nkust.pug)
+![NKUST](nkust.png)
