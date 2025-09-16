@@ -8,3 +8,6 @@
 * **打籃球**
 
 座右銘: *盡力而為*
+
+[CHATGPT](https://chatgpt.com/)
+![]()
